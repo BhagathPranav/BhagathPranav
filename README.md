@@ -5,9 +5,6 @@
   <a href="https://www.github.com/BhagathPranav" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/BhagathPranav?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Followers" />
   </a>
-  <a href="https://twitter.com/[YourTwitterHandle]" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/[YourTwitterHandle]?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=1c1917" alt="Twitter" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=BhagathPranav&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
@@ -17,8 +14,8 @@
 
 I am an Information Technology student at **Vardhaman College of Engineering** with a passion for building scalable web applications and extracting actionable insights from data. I bridge the gap between robust software engineering and data-driven decision-making.
 
-- 🔭 **Currently Building:** Scalable MERN applications like **travel_bucket** and intelligent educational platforms like **SkillSync**.
-- 📈 **Data Analytics:** Forecasting credit delinquency for financial modeling (e.g., Geldium) and visualizing business intelligence using **Tableau**.
+- 🔭 **Currently Building:** Scalable web applications and performance-optimized systems like **Pinventory** and custom web architectures.
+- 📈 **Data Analytics:** Forecasting credit delinquency for financial modeling and visualizing complex market trends using **Tableau** and **Python**.
 - 🧠 **AI & Deep Learning:** Exploring and implementing complex neural network architectures including **CNNs, GANs, and LSTMs**.
 - ☁️ **Cloud Infrastructure:** Deploying secure, scalable network architectures (VPC, EC2) on **AWS**.
 - 📫 **Let's Connect:** [Insert Your Email] | [Insert Your LinkedIn URL]
@@ -27,7 +24,7 @@ I am an Information Technology student at **Vardhaman College of Engineering** w
 
 ### 🛠️ Tech Stack & Tools
 
-**Full-Stack Development (MERN)** <br/>
+**Full-Stack Development & Architecture** <br/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -40,7 +37,6 @@ I am an Information Technology student at **Vardhaman College of Engineering** w
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white" />
 
 **Cloud & Infrastructure** <br/>
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -59,22 +55,16 @@ I am an Information Technology student at **Vardhaman College of Engineering** w
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhagathPranav&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="48%" />
   </a>
 </div>
-<br />
-<div align="center">
-  <a href="https://github.com/BhagathPranav">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=BhagathPranav&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width="100%" />
-  </a>
-</div>
 
 ---
 
 ### 🏆 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/BhagathPranav/SkillSync">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhagathPranav&repo=SkillSync&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" width="48%" />
+  <a href="https://github.com/BhagathPranav/Pinventory">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhagathPranav&repo=Pinventory&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" width="48%" />
   </a>
-  <a href="https://github.com/BhagathPranav/travel_bucket">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhagathPranav&repo=travel_bucket&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" width="48%" />
+  <a href="https://github.com/BhagathPranav/vibe_portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhagathPranav&repo=vibe_portfolio&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" width="48%" />
   </a>
 </div>
