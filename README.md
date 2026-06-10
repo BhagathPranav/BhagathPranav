@@ -18,7 +18,7 @@ I am an Information Technology student at **Vardhaman College of Engineering** w
 - 📈 **Data Analytics:** Forecasting credit delinquency for financial modeling and visualizing complex market trends using **Tableau** and **Python**.
 - 🧠 **AI & Deep Learning:** Exploring and implementing complex neural network architectures including **CNNs, GANs, and LSTMs**.
 - ☁️ **Cloud Infrastructure:** Deploying secure, scalable network architectures (VPC, EC2) on **AWS**.
-- 📫 **Let's Connect:** [Insert Your Email] | [Insert Your LinkedIn URL]
+- 📫 **Let's Connect:** bhagathpranav057@gmail.com
 
 ---
 
