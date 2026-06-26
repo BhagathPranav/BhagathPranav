@@ -120,18 +120,6 @@
 
 ---
 
-## 👾 Contribution Pac-Man
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BhagathPranav/BhagathPranav/output/pacman.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BhagathPranav/BhagathPranav/output/pacman.svg">
-    <img alt="GitHub Contribution Grid Pac-Man Animation" src="https://raw.githubusercontent.com/BhagathPranav/BhagathPranav/output/pacman.svg">
-  </picture>
-</div>
-
----
-
 <div align="center">
 
 ### 💡 Transform Data. Build Systems. Ship Fast.
