@@ -1,126 +1,114 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=250&section=header&text=Bhagath%20Pranav%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AWS%20Cloud%20%7C%20AI%20Enthusiast&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&section=header&text=Bhagath%20Pranav%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20Data%20Analyst&descAlignY=55)
 
 <div align="center">
 
-# 👋 Welcome To My Profile
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;AWS+Cloud+Enthusiast;Deep+Learning+%26+AI;Data+Visualization;Building+Scalable+MERN+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F78FB3&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;Data+Analyst+%26+Storyteller;MERN+Stack+Architect;SQL+%26+Tableau+Expert;Building+AI-Powered+Applications" />
 
 <br>
 
 <a href="https://linkedin.com/in/bhagathpranav">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010"/>
 </a>
-
 <a href="https://github.com/BhagathPranav">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010"/>
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010"/>
 </a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 B.Tech Information Technology @ Vardhaman College of Engineering
+🎓 **B.Tech Information Technology** @ Vardhaman College of Engineering  
+💡 Bridging the gap between **Software Engineering** and **Data Science**. I build scalable, high-performance web applications and extract actionable insights from complex datasets. 
 
-☁️ Passionate about building robust MERN stack applications, architecting AWS cloud environments, and exploring deep learning models like CNNs, GANs, and LSTMs.
-
-### Interests
-
-* Full Stack Web Development (MERN)
-* Cloud Computing & Networking (AWS)
-* Deep Learning & Artificial Intelligence
-* Data Visualization & Business Intelligence
-
-### Currently Focusing On
-
-* Structuring and deploying scalable web applications
-* Advanced AWS networking and EC2 server deployments
-* Preparing a research paper for the ICACIML-2026 conference
+### 🎯 Core Focus Areas
+*   **Full Stack Web Development:** Architecting responsive, REST-driven applications using the MERN stack.
+*   **Data Analytics:** Transforming raw data into business value using SQL, Python, and interactive **Tableau** dashboards.
+*   **AI & Automation:** Integrating conversational AI, deep learning (CNNs, LSTMs), and voice agents into practical tools.
+*   **Cloud Architecture:** Deploying resilient backend systems and databases on AWS.
 
 ---
 
-## 🛠 Tech Stack
+## 🎨 Tech & Tools Arsenal
 
-### Languages & Scripts
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Full Stack Development
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+### 🌐 Full Stack Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Cloud, Data & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+### 📊 Data Analytics & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎓 SkillSync
-**Educational Skill-Sharing Platform**
-* Engineered an intelligent matching system to connect users for skill exchange.
-* Implemented automated verification workflows to ensure reliable interactions.
-* **Tech Stack:** MERN Stack
+### 📦 Pinventory
+> **Full Stack Inventory Management System**
+> A comprehensive dashboard for businesses to track stock levels, manage orders, and analyze inventory turnover in real-time. Built with a scalable backend to handle concurrent updates.
+> 
+> ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+
+### 🛒 Zepto E-Commerce Data Analysis (SQL)
+> **Data Analytics & Business Intelligence**
+> Conducted deep-dive analysis on e-commerce transaction data. Engineered complex SQL queries to extract customer purchasing patterns, peak order times, and revenue bottlenecks, optimizing delivery logistics.
+> 
+> ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql) ![Data Analysis](https://img.shields.io/badge/-Data_Analytics-FF6F00?style=flat-square)
+
+### 🍲 Zomato Data Analysis
+> **Exploratory Data Analysis & Visualization**
+> Cleaned and processed large-scale restaurant datasets using Python and Pandas. Designed interactive, storytelling dashboards in **Tableau** to visualize pricing trends, customer ratings, and geographic restaurant density.
+> 
+> ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau)
+
+### 🎙️ Friday Stark Voice Agent
+> **AI-Powered Virtual Assistant**
+> Developed a customized, voice-activated AI assistant inspired by "Friday" from Marvel. Integrated speech-to-text, LLM APIs, and system automation scripts to perform daily tasks, fetch web data, and manage local files hands-free.
+> 
+> ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![AI](https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai) ![Automation](https://img.shields.io/badge/-Automation-000000?style=flat-square)
+
+### 🧩 Cross-Platform Coding Aggregator
+> **Full Stack API Integration Tool**
+> Built a centralized platform that aggregates user profiles, contest ratings, and solved problems across multiple competitive programming sites (LeetCode, Codeforces, etc.) into a single, unified developer portfolio.
+> 
+> ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express) ![REST API](https://img.shields.io/badge/-REST_API-005571?style=flat-square)
 
 ---
 
-### 📊 Geldium Credit Forecasting
-**Financial Risk & Predictive Modeling**
-* Conducted exploratory data analysis to forecast credit delinquency.
-* Built interactive data visualization dashboards using **Tableau** to track time-series revenue and analyze financial risk.
-* **Tech Stack:** Python, Machine Learning, Tableau
+## 📈 GitHub Stats & Analytics
 
----
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=BhagathPranav&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhagathPranav&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 
-### ✈️ Travel Bucket
-**Web Application**
-* Developed and structured a comprehensive full-stack application.
-* Managed database interactions, clean documentation, and API endpoints for seamless user experiences.
-* **Tech Stack:** MERN Stack
+  <br><br>
 
----
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhagathPranav&theme=radical&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
 
-### 🌐 Network Routing Simulation
-**Networking & Infrastructure**
-* Simulated routing table updates and RIP (Routing Information Protocol) configurations.
-* Troubleshot network failures utilizing Cisco Packet Tracer and custom Python scripts.
-* **Tech Stack:** Python, Cisco Packet Tracer, Networking Fundamentals
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BhagathPranav&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhagathPranav&theme=tokyonight"/>
-</p>
-
----
-
-## 📫 Connect With Me
-
-💼 LinkedIn: [linkedin.com/in/bhagathpranav](https://linkedin.com/in/bhagathpranav)
-
-💻 GitHub: [github.com/BhagathPranav](https://github.com/BhagathPranav)
+</div>
 
 ---
 
 <div align="center">
 
-### ⚡ Code • Learn • Build • Repeat
+### 💡 Transform Data. Build Systems. Ship Fast.
 
-Building scalable full-stack applications and exploring the depths of AI & Cloud.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=120&section=footer" />
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer)
