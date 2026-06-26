@@ -119,4 +119,18 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BhagathPranav/BhagathPranav/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BhagathPranav/BhagathPranav/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Pac-Man Animation" src="https://raw.githubusercontent.com/BhagathPranav/BhagathPranav/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Transform Data. Build Systems. Ship Fast.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38ef7d,100:11998e&height=120&section=footer" />
+
+</div>
