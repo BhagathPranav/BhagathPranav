@@ -119,9 +119,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BhagathPranav/BhagathPranav/output/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BhagathPranav/BhagathPranav/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Pac-Man Animation" src="https://raw.githubusercontent.com/BhagathPranav/BhagathPranav/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BhagathPranav/BhagathPranav/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BhagathPranav/BhagathPranav/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BhagathPranav/BhagathPranav/output/pacman-contribution-graph.svg">
   </picture>
 </div>
 
