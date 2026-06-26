@@ -70,32 +70,36 @@
 ## 🚀 Featured Projects
 
 ### 📦 Pinventory
-> **Full Stack Inventory Management System**
+> **Full Stack Inventory Management System**  
 > A comprehensive dashboard for businesses to track stock levels, manage orders, and analyze inventory turnover in real-time. Built with a scalable backend to handle concurrent updates.
+> 
+> 🔗 **Live Demo:** [pinventory-rho.vercel.app](https://pinventory-rho.vercel.app)
 > 
 > ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
 
 ### 🛒 Zepto E-Commerce Data Analysis (SQL)
-> **Data Analytics & Business Intelligence**
+> **Data Analytics & Business Intelligence**  
 > Conducted deep-dive analysis on e-commerce transaction data. Engineered complex SQL queries to extract customer purchasing patterns, peak order times, and revenue bottlenecks, optimizing delivery logistics.
 > 
 > ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql) ![Data Analysis](https://img.shields.io/badge/-Data_Analytics-FF6F00?style=flat-square)
 
 ### 🍲 Zomato Data Analysis
-> **Exploratory Data Analysis & Visualization**
+> **Exploratory Data Analysis & Visualization**  
 > Cleaned and processed large-scale restaurant datasets using Python and Pandas. Designed interactive, storytelling dashboards in **Tableau** to visualize pricing trends, customer ratings, and geographic restaurant density.
 > 
 > ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau)
 
 ### 🎙️ Friday Stark Voice Agent
-> **AI-Powered Virtual Assistant**
+> **AI-Powered Virtual Assistant**  
 > Developed a customized, voice-activated AI assistant inspired by "Friday" from Marvel. Integrated speech-to-text, LLM APIs, and system automation scripts to perform daily tasks, fetch web data, and manage local files hands-free.
 > 
 > ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![AI](https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai) ![Automation](https://img.shields.io/badge/-Automation-000000?style=flat-square)
 
 ### 🧩 Cross-Platform Coding Aggregator
-> **Full Stack API Integration Tool**
+> **Full Stack API Integration Tool**  
 > Built a centralized platform that aggregates user profiles, contest ratings, and solved problems across multiple competitive programming sites (LeetCode, Codeforces, etc.) into a single, unified developer portfolio.
+> 
+> 🔗 **Live Demo:** [codemash-platform.vercel.app](https://codemash-platform.vercel.app)
 > 
 > ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express) ![REST API](https://img.shields.io/badge/-REST_API-005571?style=flat-square)
 
